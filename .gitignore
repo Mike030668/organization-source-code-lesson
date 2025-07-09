@@ -1,0 +1,10 @@
+venv
+.venv
+.env
+__pycache__
+*.pyc
+*.pyo
+.coverage
+*.egg-info
+dist
+buf
