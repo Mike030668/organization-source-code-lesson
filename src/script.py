@@ -1,3 +1,7 @@
+"""
+script.py
+"""
+
 from src.mathematics import sum_numbers
 
 result = sum_numbers([1, 2, 3, 4, 5])

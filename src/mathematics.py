@@ -1,6 +1,6 @@
 """
 Module: mathematics.py
-Description: 
+Description:
     This module provides mathematical functions for various calculations.
 """
 
@@ -21,4 +21,5 @@ def sum_numbers(numbers: List[Union[int, float]]) -> Union[int, float]:
     Union[int, float]
         The sum of the numbers in the list.
     """
+
     return sum(numbers)
